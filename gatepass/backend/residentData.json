@@ -1,0 +1,50 @@
+{
+  "residentData": [
+    {
+      "id": 1,
+      "name": "Hari",
+      "email": "hari@gmail.com",
+      "password": "123",
+      "roomNumber": "B-326",
+      "visitorData": [
+        {
+          "visitorData": {
+            "name": "Shyam",
+            "email": "1234@gmail.com",
+            "roomNumber": "B-326",
+            "purposeOfVisit": "Vacation",
+            "photo": {}
+          }
+        },
+        {
+          "name": "Shyam",
+          "email": "1234@gmail.com",
+          "roomNumber": "B-326",
+          "purposeOfVisit": "Vacation",
+          "photo": {}
+        },
+        {
+          "name": "Shyam",
+          "email": "1234@gmail.com",
+          "roomNumber": "B-326",
+          "purposeOfVisit": "Vacation",
+          "photo": {}
+        },
+        {
+          "name": "",
+          "email": "",
+          "roomNumber": "B-326",
+          "purposeOfVisit": "",
+          "photo": "blob:http://localhost:3001/2fd02867-92c4-4475-8830-5adb7c59c2e3"
+        },
+        {
+          "name": "",
+          "email": "",
+          "roomNumber": "B-326",
+          "purposeOfVisit": "",
+          "photo": "blob:http://localhost:3001/2fd02867-92c4-4475-8830-5adb7c59c2e3"
+        }
+      ]
+    }
+  ]
+}
